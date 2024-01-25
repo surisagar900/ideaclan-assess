@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "fullname": "Sagar Suri 1",
+    "email": "abc@abc.com",
+    "phone": 9999999999,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  },
+  {
+    "id": "2",
+    "fullname": "Sagar Suri 2",
+    "email": "abc@abc.com",
+    "phone": 9999991999,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  },
+  {
+    "id": "3",
+    "fullname": "Sagar Suri 4",
+    "email": "abc@abc.com",
+    "phone": 9999909999,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  },
+  {
+    "id": "4",
+    "fullname": "Sagar Suri 5",
+    "email": "abc@abc.com",
+    "phone": 9929999999,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  },
+  {
+    "id": "5",
+    "fullname": "Sagar Suri 7",
+    "email": "abc@abc.com",
+    "phone": 9999999799,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  },
+  {
+    "id": "6",
+    "fullname": "Sagar Suri 8",
+    "email": "abc@abc.com",
+    "phone": 9999899999,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  },
+  {
+    "id": "7",
+    "fullname": "Sagar Suri 9",
+    "email": "abc@abc.com",
+    "phone": 9999999991,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  },
+  {
+    "id": "8",
+    "fullname": "Sagar Suri 10",
+    "email": "abc@abc.com",
+    "phone": 9999999992,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  },
+  {
+    "id": "9",
+    "fullname": "Sagar Suri 11",
+    "email": "abc@abc.com",
+    "phone": 9999959999,
+    "gender": "male",
+    "role": "l1",
+    "salary": 0,
+    "skills": ["html", "css"]
+  }
+]
